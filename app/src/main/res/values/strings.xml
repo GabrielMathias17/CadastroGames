@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CadastroGames</string>
+
+    <string-array name="estilos">
+        <item>Puzzle</item>
+        <item>FPS</item>
+        <item>RPG</item>
+        <item>Para adultos</item>
+        <item>Corrida</item>
+        <item>Simulação</item>
+        <item>Terror</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string-array name="options">
+        <item>Atualizar</item>
+        <item>Remover</item>
+    </string-array>
+
+    <string name="dialog_message">Tem certeza que deseja remover este jogo do sistema?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_title">Remover Jogo.</string>
+
+</resources>
